@@ -1,0 +1,179 @@
+第十一章确认
+
+写这本书很有趣。但这也是一个很大的工作，我很高兴我得到的支持。
+
+我最大的感谢是凯特琳，她在工作时间和精力上都做得最辛苦：她从头到尾校对了这本书，发现了许多拼写错误和前后不一致的地方，我永远也找不到。我非常感谢她的支持。
+
+非常感谢Verena Haunschmid撰写了这一部分。她在数据科学领域工作，我建议在Twitter上关注她：我也要感谢Github上的所有人！
+
+此外，我还要感谢所有制作插图的人：封面是我朋友设计的。中的图形是由创建的，使用的图标来自于中关于由Verena Haunschmid设计的在中创建的图形。我要感谢所有允许我使用他们研究文章中的图片的研究人员。
+
+至少在三个方面，我出版这本书的方式是非常规的。首先，它既可以作为网站，也可以作为电子书/pdf提供。我用来创建这本书的软件叫做Bookdown，由他编写，他创建了许多R包，可以很容易地将R代码和文本结合起来。谢谢！其次，我在平台上自行出版这本书，而不是与传统出版商合作。第三，我把这本书作为正在进行中的书出版，这极大地帮助了我获得反馈，并在这一过程中将其货币化。多亏了Leanpub使这成为可能，公平处理版税。
+
+我也要感谢你，亲爱的读者，阅读这本没有大出版商的书。
+
+感谢巴伐利亚州科学和艺术部在巴伐利亚数字化中心框架内资助我的可解释机器学习研究。
+
+工具书类
+
+“算法定义”。（2017年）。
+
+Aamodt、Agnar和Enric广场。“基于案例的推理：基础问题、方法变化和系统方法。”人工智能通信7.1（1994）：39-59。
+
+阿尔贝托，T_lio C，约翰内斯诉洛克特，蒂亚戈·阿尔梅达。“TubeSpam:评论垃圾邮件过滤
+
+YouTube，“在机器学习和应用（ICMLA）中，IEEE第14届国际会议，138-43。IEEE。（2015年）。
+
+Alvarez Melis、David和Tommi S.Jaakkola。“关于解释方法的稳健性”，ARXIV预印ARXIV:1806.08049（2018）。
+
+可视化黑盒监督学习模型中预测变量的影响〉，《ARXIV预印本：1612.08468》（2016）。
+
+阿塔利、安尼和伊利亚·萨茨基弗。“合成强大的对抗性示例”，arxiv预印arxiv:1707.07397（2017）。
+
+Biggio、Battista和Fabio Roli。“野生模式：对抗机器学习兴起十年后”，《模式识别》84（2018）：317-331。
+
+《随机森林》，机器学习45（1）。斯普林格：5-32（2001）。Brown，Tom B.等人“对抗补丁。”arxiv预印arxiv:1712.09665（2017）。
+
+快速有效规则归纳〉，《机器学习程序》（1995年）。115-123页。
+
+库克，R.丹尼斯。“线性回归中影响观察的检测”，《技术计量学》19.1（1977）：15-18。
+
+Doshi Velez，终曲，曾是Kim。“向可解释机器学习的严谨科学迈进”，ML:1-13。（2017年）。
+
+Fanaee-t、Hadi和Joao Gama。“集成探测器与背景知识相结合的事件标记”，《人工智能进展》。施普林格柏林海德堡，1-15。（2013年）。
+
+费尔南德斯、凯尔文、杰米·卡多索和杰西卡·费尔南德斯。“应用于宫颈癌筛查的部分可观察性转移学习”，伊比利亚模式识别和图像分析会议，243-50。斯普林格。（2017年）。
+
+Fisher、Aaron、Cynthia Rudin和Francesca Dominici。“从‘拉森蒙’的角度来看，模型类依赖：任何机器学习模型类的可变重要性度量。”（2018年）。
+
+Fokkema、Marjolein和Benjamin Christoffersen。“预：预测规则集合”。（2017年）。
+
+Friedman、Jerome H和Bogdan E Popescu。“通过规则集合进行预测性学习”，《应用统计学年鉴》。Jstor，916–54。（2008年）。
+
+贪婪函数近似：梯度增强机〉，《统计年鉴》（2001）：1189-1232。
+
+弗里德曼、杰罗姆、特雷弗·黑斯迪和罗伯特·提比西拉尼。“统计学习要素”。www.web.stanford.edu/~hassie/elemstatlearn/（2009年）。
+
+F_rnkranz、Johannes、Dragan Gamberger和Nada Lavra_。“规则学习的基础”，斯普林格科学与商业媒体（2012年）。
+
+Goldstein、Alex等。“包装‘冰箱’”（2017年）。
+
+Goldstein、Alex等。“窥视黑盒子：用个体条件期望图可视化统计学习”，《计算和图形统计杂志》24.1（2015）：44-65。
+
+Goodfellow、Ian J、Jonathon Shlens和Christian Szegedy。“解释和利用敌对的例子”，arxiv预印arxiv:1412.6572（2014）。
+
+Greenwell、Brandon M、Bradley C.Boehmke和Andrew J.McCarthy。“一个简单有效的基于模型的变量重要性度量”，arxiv预印arxiv:1805.04755（2018）。
+
+海德、弗里茨和玛丽安·西梅尔。“表观行为的实验研究”，《美国心理学杂志》57（2）。JSTOR:243–59。（1944年）。
+
+《机器学习》11.1（1993）：63-90，〈非常简单的分类规则在最常用的数据集上表现良好〉。
+
+贾尔斯·胡克。“发现黑盒函数中的加性结构”，第十届ACM Sigkdd知识发现和数据挖掘国际会议论文集。（2004年）。
+
+卡尼曼、丹尼尔和阿莫斯·特沃斯基。“模拟启发式”，斯坦福大学CA心理学系。（1981年）。
+
+考夫曼、伦纳德和彼得·卢梭。“通过类药物聚集”。北荷兰（1987）。
+
+Kim、Be、Rajiv Khanna和Oluwasanmi O.Koyejo。“榜样不够，要学会批评！对可解释性的批评〉，《神经信息处理系统的进展》（2016年）。
+
+Kim，Be等人“特征属性之外的可解释性：概念激活向量（TCAV）的定量测试。”ARXIV预印ARXIV:1711.11279（2017）。
+
+Koh、庞伟和Percy Liang。“通过影响函数了解黑盒预测”，arxiv预印arxiv:1703.04730（2017）。
+
+Laugel，Thibault等人“机器学习中基于比较的可解释性的逆向分类”，ARXIV预印ARXIV:1712.08443（2017）。
+
+Letham，Benjamin等人“使用规则和贝叶斯分析的可解释分类器：建立更好的中风预测模型。”《应用统计学年鉴》9.3（2015）：1350-1371。
+
+彼得·利普顿。“对比解释”，《皇家哲学研究所补编》27（1990）：247-266。
+
+模型可解释性的神话〉，《arxiv预印arxiv:1606.03490》（2016）。
+
+伦德伯格，斯科特和苏在李。“模型预测解释方法的意外统一”，ARXIV预印ARXIV:1611.07478（2016）。
+
+马丁斯、大卫和福斯特教务长。“解释数据驱动文档分类。”（2014年）。
+
+米勒，蒂姆。“人工智能的解释：社会科学的见解”，arxiv预印本：1706.07269。（2017年）。
+
+Nguyen，Anh等人“即插即用生成网络：潜在空间图像的条件迭代生成”，《IEEE计算机视觉和模式识别会议论文集》。2017年。
+
+Nguyen，Anh等人“通过深生成器网络合成神经网络中神经元的首选输入。”神经信息处理系统的进展。2016年。
+
+确认偏差：在许多方面普遍存在的现象〉，《普通心理学评论》2（2）。教育出版基金会：175.（1998年）。
+
+Olga Russakovsky、Jia Deng、Hao Su、Jonathan Krause、Sanjeev Satheesh、Sean Ma、Zhiheng Huang、Andrej Karpathy、Aditya Khosla、Michael Bernstein、Alexander C.Berg和Li Fei Fei。（*=贡献均等）ImageNet大规模视觉识别挑战。IJCV，2015年
+
+Papernot，Nicolas等人“针对机器学习的实际黑盒攻击”，《2017年亚洲计算机与通信安全会议论文集》。ACM（2017年）。
+
+Ribeiro、Marco Tulio、Sameer Singh和Carlos Guestrin。“锚：高精度模型不可知论解释”，AAAI人工智能会议（2018）。
+
+Ribeiro、Marco Tulio、Sameer Singh和Carlos Guestrin。“机器学习的模型不可知论可解释性”，ICML机器学习中的人类可解释性研讨会。（2016年）。
+
+Ribeiro、Marco Tulio、Sameer Singh和Carlos Guestrin。“我为什么要相信你？：解释任何分类器的预测〉，《第22届ACM Sigkdd知识发现和数据挖掘国际会议论文集》。ACM（2016年）。
+
+劳埃德S.沙普利，“n人博弈的价值”，《博弈论的贡献》2.28（1953）：307-317。
+
+Staniak、Mateusz和Przemyslaw Biecek。“使用实时和故障包的模型预测说明”，ARXIV预印ARXIV:1804.01955（2018）。
+
+苏、加威、达尼洛·瓦斯卡塞洛斯·瓦加斯和樱井。“愚弄深度神经网络的单像素攻击”，《IEEE进化计算汇刊》（2019年）。
+
+Szegedy，Christian等人“神经网络的有趣特性”，arxiv预印arxiv:1312.6199（2013）。
+
+瓦赫特、桑德拉、布伦特·米特斯塔特和克里斯·拉塞尔。“不打开黑匣子的反事实解释：自动决策和GDPR。”（2017）。
+
+杨、洪宇、辛西娅·鲁丁和玛戈·塞尔茨。“可扩展贝叶斯规则列表”，《第34届国际机器学习会议论文集》第70卷。jmlr.组织，2017年。
+
+赵、清远和特雷弗·黑斯迪。“黑匣子模型的因果解释”，《商业与经济统计杂志》即将出版。（2017年）。
+
+_Trumbelj、Erik和Igor Kononenko。“一种可视化和解释黑盒回归模型的一般方法”，在国际自适应和自然计算算法会议上，21-30。斯普林格。（2011年）。
+
+_Trumbelj、Erik和Igor Kononenko。“用特征贡献解释预测模型和个人预测”，知识和信息系统41.3（2014）：647-665。
+
+用于示例的R包
+
+基础。R核心团队（2017年）。R：统计计算的语言和环境。R统计计算基金会，奥地利维也纳。统一资源定位地址
+
+数据表。Matt Dowle和Arun Srinivasan（2019年）。data.table:data.frame的扩展。R包版本1.12.2。
+
+普里尔。Hadley Wickham、Romain Fran_ois、Lionel Henry和Kirill M_ller（2019年）。数据处理语法。R包版本0.8.3。
+
+**ggplot2**. Hadley Wickham, Winston Chang, Lionel Henry, Thomas Lin Pedersen, Kohske Takahashi, Claus Wilke, Kara Woo and Hiroaki Yutani (2019). ggplot2: Create Elegant Data Visualisations Using the Grammar of Graphics. R package version 3.2.0. <https://CRAN.R-project.org/package=ggplot2>
+
+**iml**. Christoph Molnar (2019). iml: Interpretable Machine Learning. R package version 0.9.0. [https:// ](https://CRAN.R-project.org/package=iml)[CRAN.R-project.org/package=iml](https://CRAN.R-project.org/package=iml)
+
+**knitr**. Yihui Xie (2019). knitr: A General-Purpose Package for Dynamic Report Generation in R. R package version 1.23. <https://CRAN.R-project.org/package=knitr>
+
+**libcoin**. Torsten Hothorn (2019). libcoin: Linear Test Statistics for Permutation Inference. R package version 1.0-4. <https://CRAN.R-project.org/package=libcoin>
+
+**memoise**. Hadley Wickham, Jim Hester, Kirill Müller and Daniel Cook (2017). memoise:
+
+Memoisation of Functions. R package version 1.1.0. <https://CRAN.R-project.org/package=memoise>
+
+**mlr**. Bernd Bischl, Michel Lang, Lars Kotthoff, Julia Schiffner, Jakob Richter, Zachary Jones, Giuseppe Casalicchio, Mason Gallo and Patrick Schratz (2019). mlr: Machine Learning in R. R package version 2.14.0. <https://CRAN.R-project.org/package=mlr>
+
+**mvtnorm**. Alan Genz, Frank Bretz, Tetsuhisa Miwa, Xuefei Mi and Torsten Hothorn (2019). mvtnorm: Multivariate Normal and t Distributions. R package version 1.0-11. [https://CRAN.R-project.org/ ](https://CRAN.R-project.org/package=mvtnorm)[package=mvtnorm](https://CRAN.R-project.org/package=mvtnorm)
+
+**NLP**. Kurt Hornik (2018). NLP: Natural Language Processing Infrastructure. R package version
+
+0.2-0. <https://CRAN.R-project.org/package=NLP>
+
+**ParamHelpers**. Bernd Bischl, Michel Lang, Jakob Richter, Jakob Bossek, Daniel Horn and Pascal
+
+Kerschke (2019). ParamHelpers: Helpers for Parameters in Black-Box Optimization, Tuning and Machine Learning. R package version 1.12. <https://CRAN.R-project.org/package=ParamHelpers>
+
+**partykit**. Torsten Hothorn and Achim Zeileis (2019). partykit: A Toolkit for Recursive Partytioning. R package version 1.2-4. <https://CRAN.R-project.org/package=partykit>
+
+**pre**. Marjolein Fokkema and Benjamin Christoffersen (2019). pre: Prediction Rule Ensembles. R package version 0.7.1. <https://CRAN.R-project.org/package=pre>
+
+**readr**. Hadley Wickham, Jim Hester and Romain Francois (2018). readr: Read Rectangular Text Data. R package version 1.3.1. <https://CRAN.R-project.org/package=readr>
+
+**rpart**. Terry Therneau and Beth Atkinson (2019). rpart: Recursive Partitioning and Regression Trees. R package version 4.1-15. <https://CRAN.R-project.org/package=rpart>
+
+**tidyr**. Hadley Wickham and Lionel Henry (2019). tidyr: Easily Tidy Data with ‘spread()’ and ‘gather()’ Functions. R package version 0.8.3. <https://CRAN.R-project.org/package=tidyr>
+
+**tm**. Ingo Feinerer and Kurt Hornik (2018). tm: Text Mining Package. R package version 0.7-6. [https:// ](https://CRAN.R-project.org/package=tm)[CRAN.R-project.org/package=tm](https://CRAN.R-project.org/package=tm)
+
+**viridis**. Simon Garnier (2018). viridis: Default Color Maps from ‘matplotlib’. R package version 0.5.1. <https://CRAN.R-project.org/package=viridis>
+
+**viridisLite**. Simon Garnier (2018). viridisLite: Default Color Maps from ‘matplotlib’ (Lite Version). R
+
+package version 0.3.0. <https://CRAN.R-project.org/package=viridisLite>
