@@ -33,9 +33,9 @@ Follow me on Twitter! [@ChristophMolnar](https://twitter.com/ChristophMolnar)
 
 Cover by [@YvonneDoinel](https://twitter.com/YvonneDoinel)
 
-可以在  [on leanpub.com](https://leanpub.com/interpretable-machine-learning) 购买PDF和电子书版（epub, mobi）
+可以在  [leanpub.com](https://leanpub.com/interpretable-machine-learning) 购买PDF和电子书版（epub, mobi）
 
-可以在 [on lulu.com](http://www.lulu.com/shop/christoph-molnar/interpretable-machine-learning/paperback/product-24036234.html) 上面购买纸质版
+可以在 [lulu.com](http://www.lulu.com/shop/christoph-molnar/interpretable-machine-learning/paperback/product-24036234.html) 上面购买纸质版
 
 ## 负责人
 

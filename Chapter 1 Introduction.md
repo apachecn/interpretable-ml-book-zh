@@ -1,22 +1,22 @@
 # 第一章 引言
 
-这本书向你解释了如何使（监督）机器学习模型可解释。本章包含一些数学公式，但即使没有公式，您也应该能够理解这些方法背后的思想。这本书不适合那些试图从头学习机器的人。如果你对机器学习不熟悉，有很多书和其他资源可以学习基础知识。我建议黑斯迪、蒂比西拉尼和弗里德曼（2009年）的《统计学习要素》一书以及在线学习平台coursera.com从机器学习开始。这本书和这门课程都是免费的！
+这本书向你解释了如何使（监督）机器学习模型可解释。本章包含一些数学公式，但即使没有公式，您也应该能够理解这些方法背后的思想。这本书不适合那些机器学习的初学者。如果你对机器学习不熟悉，有很多书和其他资源可以学习基础知识。我推荐Hastie, Tibshirani, and Friedman （2009年）的《统计学习要素》[$^1$](https://christophm.github.io/interpretable-ml-book/intro.html#fn1)一书以及[Andrew Ng的机器学习在线课程](https://www.coursera.org/learn/machine-learning)，从在线学习平台coursera.com从机器学习开始。这本书和这门课程都是免费的！
 
-机器学习模型解释的新方法以惊人的速度发布。要跟上出版的每一件事都是疯狂的，根本不可能。这就是为什么你在这本书中找不到最新颖和最奇特的方法，而是建立了机器学习可解释性的方法和基本概念。这些基础知识使您能够理解机器学习模型。将基本概念内化也使你能够更好地理解和评估你开始阅读这本书后5分钟内发表的关于可解释性的任何新论文（我可能夸大了出版率）。
+机器学习模型解释的新方法以惊人的速度发表。要跟上发表的所有文章都是不可思议的，根本不可能。这就是为什么你在这本书中找不到最新颖和最奇特的方法，而是建立了机器学习可解释性的方法和基本概念。这些基础知识使您能够理解机器学习模型。将基本概念消化后，可以使你在开始阅读这本书的5分钟内，能够更好地理解和评价任何在[arxiv.org](https://arxiv.org/)上的最新关于可解释性文章（我可能夸大了发表速度）。
 
-这本书开始于一些（反乌托邦），不需要理解这本书，但希望将娱乐和使你思考。然后这本书探讨的概念。我们将讨论可解释性何时重要以及有哪些不同类型的解释。书中使用的术语可以在中查找。大多数解释的模型和方法都是用真实的数据例子来表示的，这些例子描述了使机器学习可解释的一种方法，即使用线性模型或决策树。另一种选择是使用它可以应用于任何受监控的机器学习模型。模型不可知论方法一章论述了偏相关图和置换特征重要性等方法。模型不可知方法通过改变机器学习模型的输入和测量预测输出的变化来工作。本章将讨论返回数据实例作为解释的模型不可知方法。所有模型不可知方法都可以根据它们是解释所有数据实例的全局模型行为还是单个预测来进一步区分。以下方法解释了模型的整体行为：、、和。为了解释我们的个别预测，（和密切相关的：.一些方法可以用来解释全局模型行为和单个预测的两个方面：和。
+这本书开始于一些（反乌托邦）的[小故事](https://christophm.github.io/interpretable-ml-book/storytime.html#storytime)，不需要理解这本书，但希望你开心和并令你思考。然后这本书开始探讨[机器学习解释性](https://christophm.github.io/interpretable-ml-book/interpretability.html#interpretability)的概念。我们将讨论可解释性何时重要以及有哪些不同类型的解释。书中使用的术语可以在[术语章](https://christophm.github.io/interpretable-ml-book/terminology.html#terminology)中查找。大多数解释的模型和方法都是用在[数据章](https://christophm.github.io/interpretable-ml-book/data.html#data)中真实的数据来表示的。使机器学习可解释的一种方法是使用[可解释的模型](https://christophm.github.io/interpretable-ml-book/simple.html#simple)，即使用线性模型或决策树。另一种方法是使用[不可知的解释工具](https://christophm.github.io/interpretable-ml-book/agnostic.html#agnostic)，可以应用于任何监督机器学习模型。模型不可知论方法一章论述了偏相关图和排序特征重要性等方法。模型不可知方法通过改变机器学习模型的输入和计算预测输出的变化来工作。返回数据实例作为解释的模型不可知方法将在[基于示例的说明](https://christophm.github.io/interpretable-ml-book/example-based.html#example-based)这章讨论。所有模型不可知方法都可以根据它们是解释所有数据实例的全局模型行为还是单个预测来进一步区分。以下方法解释了模型的整体行为：[部分依赖图](https://christophm.github.io/interpretable-ml-book/pdp.html#pdp)、[累积局部效应](https://christophm.github.io/interpretable-ml-book/ale.html#ale)、[特征交互](https://christophm.github.io/interpretable-ml-book/interaction.html#interaction)、[特征重要性](https://christophm.github.io/interpretable-ml-book/feature-importance.html#feature-importance)、[全局代理模型](https://christophm.github.io/interpretable-ml-book/global.html#global)和[原型与批评](https://christophm.github.io/interpretable-ml-book/proto.html#proto)。一些方法可用于解释全局模型行为和单个预测的两个方面：[个人条件期望](https://christophm.github.io/interpretable-ml-book/ice.html#ice)与[影响实例](https://christophm.github.io/interpretable-ml-book/influential.html#influential)。
 
-这本书以乐观的观点结尾，对可能出现的情况持乐观态度。
+本书以对[可解释机器学习的未来](https://christophm.github.io/interpretable-ml-book/future.html#future)可能看起来如何的乐观展望结束。
 
 你可以从头到尾阅读这本书，也可以直接跳到你感兴趣的方法上。
 
 我希望你会喜欢这本书！
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.gif)
 
-1。弗里德曼、杰罗姆、特雷弗·黑斯迪和罗伯特·提比西拉尼。“统计学习要素”。www.web.stanford.edu/~hassie/elemstatlearn/（2009年）。
 
-1.1故事时间
+$^1$ 弗里德曼、杰罗姆、特雷弗·黑斯迪和罗伯特·提比西拉尼。“统计学习要素”。www.web.stanford.edu/~hassie/elemstatlearn/（2009年）。
+
+## 1.1 故事时间
 
 我们将从一些短篇小说开始。每个故事都是对可解释机器学习的夸张要求。如果你赶时间，你可以跳过故事。如果你想得到娱乐和（去）动力，继续读下去！
 
