@@ -1,5 +1,7 @@
 # 可解释的机器学习
 
+![](cover.jpg)
+
 > 原书：[christophm/interpretable-ml-book](https://christophm.github.io/interpretable-ml-book/index.html)
 >
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
