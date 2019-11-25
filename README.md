@@ -47,7 +47,8 @@ Cover by [@YvonneDoinel](https://twitter.com/YvonneDoinel)
 
 ## 贡献指南
 
-项目当前处于校验，全文采用百度翻译API进行翻译，分章节进行整理。校对时按照原格式进行排版，原文见[在线版](https://christophm.github.io/interpretable-ml-book/index.html)或pdf
+
+项目当前处于翻译阶段，请查看[贡献指南](CONTRIBUTING.md)，并在[整体进度](https://github.com/apachecn/interpretable-ml-book-zh/issues/1)中领取任务。
 
 > 请您勇敢地去翻译和改进翻译。虽然我们追求卓越，但我们并不要求您做到十全十美，因此请不要担心因为翻译上犯错——在大部分情况下，我们的服务器已经记录所有的翻译，因此您不必担心会因为您的失误遭到无法挽回的破坏。（改编自维基百科）
 
