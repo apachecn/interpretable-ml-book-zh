@@ -54,4 +54,4 @@ Cover by [@YvonneDoinel](https://twitter.com/YvonneDoinel)
 
 ## 赞助我们
 
-![img](https://camo.githubusercontent.com/9a0fb5ccc2033ffdb3b94cc7aaf29be2813bebd9/68747470733a2f2f7777772e617061636865636e2e6f72672f696d672f61626f75742f646f6e6174652e6a7067)
+![img](http://data.apachecn.org/img/about/donate.jpg)
