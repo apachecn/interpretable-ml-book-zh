@@ -6,7 +6,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 >
-> 软件通常在 Beta 测试完成不久后发布。Beta 在拉丁语中是“还不能用”的意思。
+> 我相信大家都知道程序员讨厌的四件事，那就是：写注释、写文档、别人不写注释、别人不写文档。
 
 - [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 - [ApacheCN 学习资源](http://www.apachecn.org/)
